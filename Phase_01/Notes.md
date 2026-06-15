@@ -1,3 +1,5 @@
+# Insights & logs regarding phase 1 implementation
+
 ## Implementation 1: Basic Logic Gates
 
 ### What XOR actually means?
