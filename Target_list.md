@@ -4,9 +4,9 @@
 
 1. Implementation of NOT, AND, OR, NAND, NOR, XOR, and XNOR gates in Logisim. [done]
 
-2. Implementation of Boolean expressions and truth table verification circuits.
+2. Implementation of Boolean expressions and truth table verification circuits. [done]
 
-3. Implementation of Half Adder and Full Adder circuits.
+3. Implementation of Half Adder and Full Adder circuits. [done]
 
 4. Implementation of 4-bit ripple carry adder and subtraction circuit.
 

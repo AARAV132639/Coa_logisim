@@ -87,3 +87,7 @@ o C XOR B = A
 - This is why XOR appears everywhere:
 
 o Adders            o Subtractors       o Comparators       o Error detection       o Encryption            oChecksums          o RAID storage systems      oProcessor ALUs         o Digital communication
+
+
+
+
